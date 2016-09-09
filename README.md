@@ -1,3 +1,5 @@
+#Projects List
+-------
 #Fire Emblem Fates Pairing Planner
 
 A small Java application that provides stats and numbers to facilitate players in pairing up units. User interface uses Slick2d.
@@ -27,3 +29,5 @@ A small Java application that provides stats and numbers to facilitate players i
 * Availability: Right click a unit to see who that unit can S-rank with; good for seeing who is left that can be paired.
 
 * Save your pairings to a file and load it up again when needed.
+
+-------
