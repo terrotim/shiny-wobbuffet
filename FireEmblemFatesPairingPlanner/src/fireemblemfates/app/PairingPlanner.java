@@ -1128,7 +1128,7 @@ public class PairingPlanner extends BasicGame{
 	}
 
 	public static void main(String[] args) throws SlickException{
-		AppGameContainer appgc = new AppGameContainer(new ScalableGame(new PairingPlanner("Fire Emblem Fates Pairing Planner v1.5"), 800, 800, true));
+		AppGameContainer appgc = new AppGameContainer(new ScalableGame(new PairingPlanner("Fire Emblem Fates Pairing Planner"), 800, 800, true));
 		appgc.setDisplayMode(WIDTH, HEIGHT, false);
 		appgc.setShowFPS(false);
 		Display.setResizable(true);
