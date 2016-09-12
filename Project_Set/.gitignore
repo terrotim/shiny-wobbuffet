@@ -1,6 +1,4 @@
 /bin/
 .classpath
 .project
-.svm/
-.settings/.svn
-/src/.svn
+*.svn
