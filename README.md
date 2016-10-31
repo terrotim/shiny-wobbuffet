@@ -57,3 +57,9 @@ A small recreation of the card game Set.  The goal is to find as many "sets" as 
 * Can use the keys Q, W, E, R, A, S, D, F, Z, X, C, and V on the keyboard to select cards as well.
 
 * Score and time added depends on how many sets exist in the current card layout.
+
+-------
+
+#Tile Puzzle Genetic Algorithm
+
+Randomly generates a 5x5 tile layout and uses genetic algorithm to attempt to solve the layout. A solution consists of a layout such that a head (circle) matches with the same colored body (square) from another tile.
