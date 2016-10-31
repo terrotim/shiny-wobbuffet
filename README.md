@@ -32,7 +32,7 @@ A small Java application that provides stats and numbers to facilitate players i
 
 -------
 
-#Robot GA
+#Robot Maneuvering Genetic Algorithm
 
 Project that was started in grad school as a final project that uses genetic algorithm to generate robot AI that can maneuver a generated map and combat enemy bot teams.  Project is being expanded upon to include more parameters to enhance bot decision making. Documentation for use coming soon.
 
@@ -49,6 +49,8 @@ Project that was started in grad school as a final project that uses genetic alg
 #Set game
 
 A small recreation of the card game Set.  The goal is to find as many "sets" as possible before time runs out.  Finding a set increases the time you have remaining.
+
+**Features**
 
 * Can click the cards with the mouse to select/unselect.
 
