@@ -1,5 +1,15 @@
 #Projects List
 -------
+#DNA string matching 
+
+Test program that compares different algorithms to find recurring motifs in a potential string in DNA quickly and accurately.
+
+**Features**
+
+* Currently uses both genetic algorithm and expectation maximization to find hardcoded motifs in a large set of randomly generated DNA strings.
+
+-------
+
 #Fire Emblem Fates Pairing Planner
 
 A small Java application that provides stats and numbers to facilitate players in pairing up units. User interface uses Slick2d. Trying to address bugs and inaccurate data.
