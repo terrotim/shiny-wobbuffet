@@ -12,7 +12,7 @@ Test program that compares different algorithms to find recurring motifs in a po
 
 #Fire Emblem Fates Pairing Planner
 
-A small Java application that provides stats and numbers to facilitate players in pairing up units. User interface uses Slick2d. Trying to address bugs and inaccurate data.
+A small Java application that provides stats and information of all playable units in the game Fire Emblem Fates to facilitate players in pairing up units, either for a casual play or optimized run. User interface uses Slick2d. Trying to address bugs and inaccurate data.
 
 **Features**
 
@@ -58,7 +58,7 @@ Project that was started in grad school as a final project that uses genetic alg
 
 #Set game
 
-A small recreation of the card game Set.  The goal is to find as many "sets" as possible before time runs out.  Finding a set increases the time you have remaining.
+A small recreation of the card game Set.  Instead of competing against other people, the goal is to find as many "sets" as possible before time runs out.  Finding a set increases the time you have remaining.
 
 **Features**
 
@@ -72,4 +72,4 @@ A small recreation of the card game Set.  The goal is to find as many "sets" as 
 
 #Tile Puzzle Genetic Algorithm
 
-Randomly generates a 5x5 tile layout and uses genetic algorithm to attempt to solve the layout. A solution consists of a layout such that a head (circle) matches with the same colored body (square) from another tile.
+Randomly generates a 5x5 tile layout and uses genetic algorithm to attempt to solve the layout. A solution consists of a layout such that a head (circle) matches with the same colored body (square) from another tile. In an ideal solution, each square's edge that is connected to another square's edge generates a proper head and body of the same color.
